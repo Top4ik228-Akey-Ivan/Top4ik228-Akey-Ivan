@@ -4,10 +4,9 @@
 
 
 
-
+### Languages and Tools
 ![CSS](https://img.shields.io/badge/-CSS-000000?style=for-the-badge&logo=CSS3&logoColor=548fc7)
 ![SASS](https://img.shields.io/badge/-SASS-000000?style=for-the-badge&logo=SASS&logoColor=CC6699)
-![Styled_Components](https://img.shields.io/badge/-Styled_Components-000000?style=for-the-badge&logo=styled-components&logoColor=DB7093)
 ![javascript](https://img.shields.io/badge/-JAVASCRIPT-000000?style=for-the-badge&logo=javascript)
 ![typescript](https://img.shields.io/badge/-TYPESCRIPT-000000?style=for-the-badge&logo=typescript)
 ![REACT](https://img.shields.io/badge/-REACT-000000?style=for-the-badge&logo=REACT)
