@@ -1,16 +1,16 @@
-## Hi there 👋
+## Привет👋 Меня зовут Иван
 
-<!--
-**Top4ik228-Akey-Ivan/Top4ik228-Akey-Ivan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Я начинающий frontend разработчик
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+![CSS](https://img.shields.io/badge/-CSS-000000?style=for-the-badge&logo=CSS3&logoColor=548fc7)
+![SASS](https://img.shields.io/badge/-SASS-000000?style=for-the-badge&logo=SASS&logoColor=CC6699)
+![Styled_Components](https://img.shields.io/badge/-Styled_Components-000000?style=for-the-badge&logo=styled-components&logoColor=DB7093)
+![javascript](https://img.shields.io/badge/-JAVASCRIPT-000000?style=for-the-badge&logo=javascript)
+![typescript](https://img.shields.io/badge/-TYPESCRIPT-000000?style=for-the-badge&logo=typescript)
+![REACT](https://img.shields.io/badge/-REACT-000000?style=for-the-badge&logo=REACT)
+![REDUX](https://img.shields.io/badge/-REDUX-000000?style=for-the-badge&logo=REDUX&logoColor=893dbf)
+![NODE](https://img.shields.io/badge/-NODE-000000?style=for-the-badge&logo=NODE.JS&logoColor=23b84d)
+![MONGODB](https://img.shields.io/badge/-MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=23b84d)
